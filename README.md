@@ -12,7 +12,7 @@ Working towards a version 2.0 of the currently running @LdnOnt_2014 bot to tweet
 Uses TwitterOAuth by abraham to connect to Twitter. https://github.com/abraham/twitteroauth
 
 Future Features
-===============
+---------------
 
 1,	Variation of tweets to not seem as "bot-like".
 
